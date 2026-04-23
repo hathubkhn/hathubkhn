@@ -134,14 +134,50 @@
 
 ---
 
-## 🔗 Let's Connect
+## 📦 Featured Projects
 
-| | |
-|-|-|
-| 🌐 **Lab** | [appliedai-lab.com](https://www.appliedai-lab.com) |
-| 👤 **Research Profile** | [ai4life.hust.edu.vn](https://ai4life.hust.edu.vn/nguyen-thi-thu-2/) |
-| 📧 **Email** | hathu.bk56@gmail.com |
-| 💼 **LinkedIn** | [nguyen-thu-471414160](https://www.linkedin.com/in/nguyen-thu-471414160/) |
-| 📖 **Google Scholar** | [FtFck0UAAAAJ](https://scholar.google.com/citations?hl=en&user=FtFck0UAAAAJ) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 VARDiff</h3>
+      <p>
+        Vision-Augmented Retrieval-guided Diffusion model for stock price forecasting.
+        Combines chart image representations with retrieval-augmented generation to
+        improve prediction accuracy on multivariate financial time series.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Diffusion%20Model-6B21A8?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+      </p>
+      <p>📄 Published in <b>Information Sciences 2026</b></p>
+      <a href="https://github.com/hathubkhn/VARDiff">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Research Assistant (AsT)</h3>
+      <p>
+        Full-stack AI-powered research assistant platform for academic workflows.
+        Features intelligent document retrieval, paper summarization, and
+        multi-agent Q&A over research literature — built for the AppliedAI-Lab team.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-6B21A8?style=flat&logo=python&logoColor=white" />
+      </p>
+      <p>🔬 Built for <b>AppliedAI-Lab</b> research workflows</p>
+      <a href="https://github.com/hathubkhn/assistant-research-frontend">
+        <img src="https://img.shields.io/badge/Frontend-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/hathubkhn/assistant-research-backend">
+        <img src="https://img.shields.io/badge/Backend-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center"><i>"AI is not just a tool — it's a lens to see science differently."</i></p>
