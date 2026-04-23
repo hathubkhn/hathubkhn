@@ -38,7 +38,7 @@
 
 - **Agentic Recruitment AI** @ Employment Hero — intelligent candidate-recruiter matching with LangSmith & OpenAI SDK
 - **VARDiff** — Vision-augmented retrieval-guided diffusion model for stock forecasting *(Information Sciences 2026)*
-- **FRAIL** — Fragment-based Reinforcement Learning for molecular design targeting FAAH-1 *(under review)*
+- **FRAIL** — Fragment-based Reinforcement Learning for molecular design targeting FAAH-1 *()*
 - **RAG-Impute** — Retrieval-augmented generation for multivariate time series imputation
 
 ---
@@ -63,7 +63,7 @@
 | 2026 | **VARDiff**: Vision-augmented retrieval-guided diffusion for stock forecasting | *Information Sciences* |
 | 2025 | **SmaLLaMA-A\***: Lightweight LLMs for efficient robot path planning | *ATC 2025* |
 | 2025 | **PARP1 Inhibitors**: Integrating diffusion models and molecular modeling | *J. Biomolecular Structure & Dynamics* |
-| 2025 | **FRAIL**: Fragment-based RL for molecular design on FAAH-1 | *Molecular Diversity (under review)* |
+| 2025 | **FRAIL**: Fragment-based RL for molecular design on FAAH-1 | *Molecular Diversity ()* |
 | 2024 | **ViFin-Gen**: Vietnamese instruction dataset generation for finance | *ATC 2024* |
 | 2024 | **IBC-YOLOv8**: Inverted Bottleneck Convolution for YOLOv8 | *IEEE ISIE 2024* |
 | 2024 | Impact of Tokenizer in Pretrained Language Models for Finance | *FAIR 2024* |
