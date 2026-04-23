@@ -134,7 +134,7 @@
 
 ---
 
-## 📦 Featured Projects
+## 📌 Pinned Projects
 
 <table>
   <tr>
